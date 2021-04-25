@@ -1,0 +1,14 @@
+
+#home :active{
+    border-bottom: 3px solid blue !important;
+}
+#home :hover{
+    border-bottom: 3px solid blue !important;
+}
+
+#manageproducts :active{
+    border-bottom: 3px solid blue !important;
+}
+#manageproducts :hover{
+    border-bottom: 3px solid blue !important;
+}
